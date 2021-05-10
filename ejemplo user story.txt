@@ -1,0 +1,29 @@
+title
+
+why
+
+requirements:
+who
+where
+what
+edge cases
+
+mockups/screenshots:
+
+qa notes/green case/happy path
+
+testing cases:
+
+release notes:
+-can be deployed on its own
+-other release notes:
+	-migrations?
+	-backfill scripts?
+	-enviroment variables?
+	-special steps?
+
+owner:
+
+complexity:
+
+labels/tags:
